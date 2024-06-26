@@ -22,5 +22,5 @@ if (!isNaN(Valor1) && !isNaN(Valor2)) {
     console.log(`O maior valor é: ${maior}`);
 
 } else {
-    console.log("Por favor, insira números válidos.");
+    console.log("Por favor coloque números válidos");
 }
